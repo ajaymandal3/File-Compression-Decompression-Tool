@@ -1,0 +1,13 @@
+build/
+*.exe
+*.obj
+*.o
+*.ilk
+*.pdb
+*.log
+*.huff
+*.bin
+output.txt
+compressed.huf
+.DS_Store
+Thumbs.db
